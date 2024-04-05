@@ -1,4 +1,5 @@
 use lazy_static::lazy_static;
+/* 
 use wasmtime::*;
 
 lazy_static! {
@@ -8,3 +9,4 @@ lazy_static! {
         ()
     ); 
 }
+*/

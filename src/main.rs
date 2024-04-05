@@ -1,7 +1,8 @@
-use anyhow::Result;
-use wasmtime::*;
+//use anyhow::Result;
+//use wasmtime::*;
 
-fn main() -> Result<()> {
+fn main() {
+    /* 
     println!("Compiling module...");
     let engine = Engine::default();
     let module = Module::from_file(&engine, "src/hello.wat")?; 
@@ -29,4 +30,6 @@ fn main() -> Result<()> {
 
     println!("Done.");
     Ok(())
+    */
+    println!("Hi!");
 }
